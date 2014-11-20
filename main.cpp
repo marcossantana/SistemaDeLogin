@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
     scanf ("%d", &senha);
     
     if(senha == 123)
-    printf ("Logado");
+    printf ("Logado\n");
     else
     printf ("Senha incorreta\n");
     system ("pause");
